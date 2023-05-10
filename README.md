@@ -1,10 +1,10 @@
 **Hello,**
 
-I am Andrew Makori Nyachaki. An IT specialist with excellent communication skills with
+I am Andrew Makori Nyachaki, an IT specialist with excellent communication skills with
 the ability to work effectively with key stakeholders in functional teams. I am
-learning Software Engineering to majoring in back-end development.
+learning Software Engineering back-end major.
 
-I spend my free time learning and researching. I teach and train on particular subjects of interest. I also spend time helping the less fortunate as part of my philathropy.
+I spend my free time learning and researching. I teach and train on particular subjects of interest. I also spend time helping the less fortunate as part of my philanthropy.
 
 I have had an opportunity to work with various companies and organisations which include;
 Sesoft Technologies, IEBC, KNBS, Ram Memorial Hospital, BiddingorBuying.com, and Kisii Teaching and Referral Hospital in various capacities and leadership roles.
