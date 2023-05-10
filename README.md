@@ -16,3 +16,8 @@ Sesoft Technologies, IEBC, KNBS, Ram Memorial Hospital, BiddingorBuying.com, and
 	* **Bootcamps:** Whitebox Entreprneurship.
 
 	* _Reach me Through:_ [nyachakim@gmail.com](mailto:nyachakim@gmail.com), [Twitter](https://twitter.com/start_a_way) and check my [Linkedin](https://www.linkedin.com/in/startaway/)
+
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
