@@ -7,7 +7,7 @@ learning Software Engineering back-end major.
 I spend my free time learning and researching. I teach and train on particular subjects of interest. I also spend time helping the less fortunate as part of my philanthropy.
 
 I have had an opportunity to work with various companies and organisations which include;
-Sesoft Technologies, IEBC, KNBS, Ram Memorial Hospital, BiddingorBuying.com, and Kisii Teaching and Referral Hospital in various capacities and leadership roles.
+Sesoft Technologies, Ministry of Education, IEBC, KNBS, Ram Memorial Hospital, BiddingorBuying.com, and Kisii Teaching and Referral Hospital in various capacities and leadership roles.
 
  * **Languages:** SQL, Python, Java, and C.
 
