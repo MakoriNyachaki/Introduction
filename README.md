@@ -13,6 +13,4 @@ Sesoft Technologies, Ministry of Education, IEBC, KNBS, Ram Memorial Hospital, B
 
  * **Certifations:** [Google IT Professional Support](https://drive.google.com/file/d/1oTmx4UkAI4fjVEWQzAQTv1OGsXIBLZPX/view?usp=share_link), [IBM SkillsBuild for Students.](https://drive.google.com/file/d/1jduCrUFCMfbyVPufQQhFYNbdwREdZ8bY/view?usp=share_link)
 
- * **Bootcamps:** [Whitebox Entreprneurship.](https://drive.google.com/file/d/1fLbGv_bJ3qelQhXsQh0wWcuPoEE3W7wx/view?usp=share_link)
-
-_Reach me Through:_ [nyachakim@gmail.com](mailto:nyachakim@gmail.com), [Twitter](https://twitter.com/start_a_way) and check my [Linkedin](https://www.linkedin.com/in/startaway/)
+ * **Bootcamps:** [Whitebox Entreprneurship.](https://drive.google.com/file/d/1fLbGv_bJ3qelQhXsQh0wWcuPoEE3W7wx/view?usp=share_link), [Python for Data Analysis Full Bootcamp](https://shorturl.at/lzE8c)
