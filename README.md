@@ -11,6 +11,6 @@ Sesoft Technologies, Ministry of Education, IEBC, KNBS, Ram Memorial Hospital, B
 
  * **Languages:** SQL, Python, Java, and C.
 
- * **Certifations:** [Google IT Professional Support](https://drive.google.com/file/d/1oTmx4UkAI4fjVEWQzAQTv1OGsXIBLZPX/view?usp=share_link), [IBM SkillsBuild for Students.](https://drive.google.com/file/d/1jduCrUFCMfbyVPufQQhFYNbdwREdZ8bY/view?usp=share_link)
+ * **Certificates:** [Google IT Professional Support](https://drive.google.com/file/d/1oTmx4UkAI4fjVEWQzAQTv1OGsXIBLZPX/view?usp=share_link), [IBM SkillsBuild for Students.](https://drive.google.com/file/d/1jduCrUFCMfbyVPufQQhFYNbdwREdZ8bY/view?usp=share_link)
 
  * **Bootcamps:** [Whitebox Entreprneurship](https://drive.google.com/file/d/1fLbGv_bJ3qelQhXsQh0wWcuPoEE3W7wx/view?usp=share_link), [Python for Data Analysis Full Bootcamp](https://shorturl.at/lzE8c)
