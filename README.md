@@ -1,16 +1,7 @@
 **Hello,**
 
-I am Andrew Makori Nyachaki, an IT specialist with excellent communication skills with
-the ability to work effectively with key stakeholders in functional teams. I am
-learning Software Engineering back-end major.
+I am Andrew Makori Nyachaki, an IT specialist with excellent communication skills with the ability to work effectively with key stakeholders in functional teams. I help companies and organizations into refineing data into meaningful insights, to making well-informed and critical business decisions.
 
-I spend my free time learning and researching. I teach and train on particular subjects of interest. I also spend time helping the less fortunate as part of my philanthropy.
+I spend my free time learning and researching the fields of Computer Science, Software Engineering Data Analysis and Data Science. Teaching, training, and tutoring more especially in the fields of interest is one of my passion that drive my curiosiity.
 
-I have had an opportunity to work with various companies and organisations which include;
-Sesoft Technologies, Ministry of Education, IEBC, KNBS, Ram Memorial Hospital, BiddingorBuying.com, and Kisii Teaching and Referral Hospital in various capacities and leadership roles.
-
- * **Languages:** SQL, Python, Java, and C.
-
- * **Certificates:** [Google IT Professional Support](https://drive.google.com/file/d/1oTmx4UkAI4fjVEWQzAQTv1OGsXIBLZPX/view?usp=share_link), [IBM SkillsBuild for Students.](https://drive.google.com/file/d/1jduCrUFCMfbyVPufQQhFYNbdwREdZ8bY/view?usp=share_link)
-
- * **Bootcamps:** [Whitebox Entreprneurship](https://drive.google.com/file/d/1fLbGv_bJ3qelQhXsQh0wWcuPoEE3W7wx/view?usp=share_link), [Python for Data Analysis Full Bootcamp](https://shorturl.at/lzE8c)
+I have had an opportunity to work with various companies and organisations from which I have gained hands on exeperiences and lessons. Excited! Here is my [my portfolio](https://makorinyachaki.github.io/)
